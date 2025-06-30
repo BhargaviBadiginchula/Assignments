@@ -1,4 +1,4 @@
-// class Naming$naming  :is ok to use but $ in classes. But in classes it have special meaning as it represents inner or anonymous classes.To avoid clashes use Pascal Caseor Title Case conventions.
+/* class Naming$naming  :is ok to use but $ in classes. But in classes it have special meaning as it represents inner or anonymous classes.To avoid clashes use Pascal Caseor Title Case conventions.*?
 
 class Naming{
   //static int abstract; A keyword can't be a variable name. 
